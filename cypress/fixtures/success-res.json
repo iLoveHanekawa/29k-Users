@@ -1,0 +1,11 @@
+{
+    "success": true,
+    "created_user": {
+        "first_name": "Arjun",
+        "last_name": "Tanwar",
+        "user_email": "arjuntanwar9@example.com",
+        "user_login": "arjuntanwar9_example_com",
+        "user_pass": "adminX@7",
+        "role": "subscriber"
+    }
+}

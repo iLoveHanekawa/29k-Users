@@ -1,0 +1,6 @@
+{
+    "success": false,
+    "errors": {
+        "email": ["Please enter a valid email address."]
+    }
+}

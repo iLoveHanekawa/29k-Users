@@ -1,0 +1,7 @@
+{
+    "success": false,
+    "errors": {
+        "email": ["Email is a required field."],
+        "pass": ["Password is a required field."]
+    }
+}

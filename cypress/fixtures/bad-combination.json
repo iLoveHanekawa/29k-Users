@@ -1,0 +1,6 @@
+{
+    "success": false,
+    "errors": {
+        "pass": ["Incorrect username or password."]
+    }
+}

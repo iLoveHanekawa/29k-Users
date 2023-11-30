@@ -1,0 +1,9 @@
+{
+    "success": false,
+    "errors": {
+        "email": ["Email already exists."],
+        "fname": ["Invalid first name."],
+        "lname": ["Invalid last name."],
+        "cpass": ["Entered passwords don't match."]
+    }
+}
